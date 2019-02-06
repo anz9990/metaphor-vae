@@ -4,9 +4,9 @@ Interpolating Metaphors with Variational Autoencoders
 
 # Dependencies
 
-Python 3.6
-Pytorch 0.4
-Fastai 0.7
+* Python 3.6
+* Pytorch 0.4
+* Fastai 0.7
 
 # Installation
 
