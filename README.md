@@ -20,6 +20,10 @@ Interpolating Metaphors with Variational Autoencoders
    pip install fastai==0.7.0 torchtext==0.2.3 opencv-python spacy
    sudo apt update && sudo apt install -y libsm6 libxext6
    ```
+3. Install Spacy `en` model:
+   ```
+   python -m spacy download en
+   ```
    
 # Data
 
