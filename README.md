@@ -5,7 +5,7 @@ Interpolating Metaphors with Variational Autoencoders
 # Dependencies
 
 * Python 3.6
-* Pytorch 0.4
+* Pytorch 0.4.1
 * Fastai 0.7
 
 
@@ -23,6 +23,10 @@ Interpolating Metaphors with Variational Autoencoders
 3. Install Spacy `en` model:
    ```
    python -m spacy download en
+   ```
+4. Install Pytorch `0.4.1` (default version of pytorch with fastai 0.7.0 is 0.3.0):
+   ```
+   pip install torch==0.4.1
    ```
    
 # Data
